@@ -15,4 +15,4 @@ do mundo.
 
 c. Existe outra maneira, além do terminal, de trabalhar com o Github?
 Sim através do console do VScode e pelo proprio site do Github é possível trabalhar de mesma forma 
-em que se trabalha utilizando o terminal de forma mais visual
+em que se trabalha utilizando o terminal de forma mais visual.
