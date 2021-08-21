@@ -1,0 +1,18 @@
+Clonar um repositório existente
+git clone
+Iniciar um repositório local
+git init    
+Apontar um repositório remoto
+git remote add origin <link do repositório>
+Mostra status do arquivo 
+git status
+Adicionar arquivos 
+git add . 
+Realizar um commit
+git commit -m “comentário”
+Enviar modificações ao repositório
+git push origin master
+Criar Branch Main
+git branch -M main 
+Buscar alterações no repositório
+git pull
