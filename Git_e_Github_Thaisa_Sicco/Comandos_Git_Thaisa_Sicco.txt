@@ -1,0 +1,25 @@
+Inicializar um repositório local - git init
+
+Configurar username - git config --global user.name *nome de usuário*
+
+Configurar email - git config --global user.email *email*
+
+Adicionar arquivos a serem enviados - git add .
+
+Adicionar arquivo em especifico - git add *nome do arquivo*
+
+Confirmar alterações do arquivo - git commit -m "mensagem do commit"
+
+Verificar status dos arquivos ou diretórios - git status
+
+Clonar um repositório remoto - git clone *url*
+
+Criar uma branch - git branch *nome da branch*
+
+Alterar entre as branchs criadas - git checkout -b *nome da branch*
+
+Enviar alterações feitas para um repositório remoto - git push origin *nome da branch*
+
+Atualizar arquivos do repositório remoto no repositório local - git pull
+
+
