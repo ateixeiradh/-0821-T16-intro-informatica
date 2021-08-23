@@ -1,0 +1,5 @@
+a. O Git foi inventado por Linus Torvalds com a finalidade de registrar o histórico de versões de qualquer tipo de arquivo.
+
+b. O GitHub é uma subsidiária da Microsoft desde 2018.
+
+c. O GitHub pode ser acessado pela web, por meio de aplicativo de desktop, e inclusive no próprio IDE (ex.: Visual Studio Code).
