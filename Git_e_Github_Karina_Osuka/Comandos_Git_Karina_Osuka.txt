@@ -1,0 +1,34 @@
+//
+Git config --global user.name "meu_login": configuração do nome do usuário;
+
+Git config --global user.email "meu_email": configuração do e-mail do usuário;
+
+Git clone: clona o repositório criado remotamente no Github;
+
+Git init: inicia um repositório local;
+
+Git add . : adicionar arquivo;
+
+Git add--all: adiciona todos os arquivos; 
+
+Git commit -m "mensagem_commit": "comitar" salva mudanças no repositório local, com mensagem;
+
+Git rm: remover arquivo;
+
+Git remote show origin: exibir informações do repositório remoto;
+
+Git remote add origin (copiar o nome do repositório.com....git: vincular repositório local com um repositório remoto;
+
+Git push -u origin master (ou main no lugar do master): enviar arquivos/diretório para o repositório remoto; 
+
+Git pull: Atualiza repositório local com a última versão da origem da branch. Necessário commitar as mudanças para executar essa ação;
+
+Git branch: criar ramificação no projeto;
+
+Git status: exibe as condições do diretório, se algo foi alterado, adicionado, removido... Além disso, caso esteja reastreado com uma branch no servidor, verifica se a versão está a frente ou atrás da versão do servidor;
+
+Git log: Mostra histórico de alterações em ordem cronológica;
+
+Git log --stat: Mostra histórico de alterações em ordem cronológica e quais arquivos foram alterados;
+
+
