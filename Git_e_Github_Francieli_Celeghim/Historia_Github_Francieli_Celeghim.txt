@@ -7,4 +7,3 @@ Em 4 de junho de 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 b
 
 Existe outra maneira, além do terminal, de trabalhar com o Github?
 Tem como trabalhar pelo VS CODE, 
-
