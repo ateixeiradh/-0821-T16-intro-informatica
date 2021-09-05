@@ -1,4 +1,6 @@
-História_Github_Thyano_Correia
+Curso: CTD
+Aluno: Thyano Correia
+Atividade: Mochila do Viajante | Parte 1
 
 a. Quem inventou o sistema de controle de versão Git e por quê?
 Resposta: O git foi criado por Linus Torvalds em 2005 para apoiar o desenvolvimento do kernel do linux.

@@ -1,4 +1,6 @@
-Início
+Curso: CTD
+Aluno: Thyano Correia
+Atividade: Mochila do Viajante | Parte 2
 
 1 - Inicializar repositório local
 git init
