@@ -1,0 +1,39 @@
+Início
+
+1 - Inicializar repositório local
+git init
+
+2 - Inicializar repositório remoto
+git remote + endereço do repositório remoto
+
+3 - Clonar um repositório remoto
+git clone + endereço do repositório remoto
+
+4 - Baixar conteúdo do repositório remoto para o repositório local
+git pull
+
+5 - Baixar conteúdo do repositório local especificando uma branch
+git pull origin + nome da branch desejada
+
+6 - Subir conteúdo para o repositório remoto
+git push
+
+7 - Subir conteúdo para repositório remoto especificando uma branch 
+git push origin + nome da branch desejada
+
+8 - Adicionar todos arquivos no staging area para serem commitados e enviados
+git add . 
+
+9 - Especificando o arquivo no staging area para ser commitado e enviado
+git add + nome do arquivo
+
+10 - Criar um commit na linha do tempo da branch na staging area 
+git commit -m "comentário"
+
+11 - Enviar os arquivos
+git push
+git push origin + branch
+
+12 - Configurar nome de usuário e e-mail para identificar o autor do trabalho
+git config --global user.name "usuario"
+git config --global user.e-mail "email"
